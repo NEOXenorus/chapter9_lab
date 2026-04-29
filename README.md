@@ -9,4 +9,4 @@ Ange Munoz
 To practice shell commands, Git initialization, status checking, staging, and committing.
 
 ## Reflection
-Git helps track changes without creating many duplicate filenames.
+Here is the change for the exercise number 3.
